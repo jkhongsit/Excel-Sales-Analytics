@@ -38,7 +38,19 @@ _**Importance of analyzing Financial Data**_
 _**Role of Reports**_
    **1.**Align Financial Planning with Strategic Goals:** Our visual reports provide a clear roadmap for aligning your financial planning with your organization's strategic objectives.
    **2.**Instill Confidence in the Organization's Financial Outlook:** Communicate your financial health and growth prospects with confidence, enhancing trust among stakeholders.
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
   
-  
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
 
 
