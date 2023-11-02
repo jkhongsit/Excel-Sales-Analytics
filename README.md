@@ -5,4 +5,4 @@
 -**Project Objective**-
 
   **1.** Create a [Customer_Performance_Report] (https://github.com/jkhongsit/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-  **2.** Conduct a comprehensive comparison between _[market performance and Sales target]_ (
+  **2.** Conduct a comprehensive comparison between _[market performance and Sales target]_ (https://github.com/jkhongsit/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
