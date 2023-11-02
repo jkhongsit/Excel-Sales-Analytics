@@ -25,6 +25,19 @@
   **2.**Create Profit & Loss (P & L) Report by _[Markets] (https://github.com/jkhongsit/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
   **3.**Create Profit & Loss (P & L) Report by _[Months] (https://github.com/jkhongsit/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
+_**Purpose of Financial Analytics:**_
+    **1.**Evaluate Financial Performance:** Uncover hidden insights within your financial data, enabling a comprehensive assessment of your organization's fiscal health.
+    **2.**Support Decision-Making:** Make data-driven decisions by harnessing the power of your financial data to navigate complex financial landscapes.
+    **3.**Facilitate Communication with Stakeholders:** Use clear and compelling data visualizations to communicate your financial story to internal and external stakeholders, building trust and confidence.
+
+_**Importance of analyzing Financial Data**_
+ Analyzing finance data is paramount for your organization's success. It:
+    **1.**Aids Benchmarking:** Compare your financial metrics against industry peers and previous periods, providing a vital perspective for strategic decision-making.
+    **2.**Serves as the Foundation for Budgeting and Forecasting:** Your financial data is the bedrock on which you build your budgets and forecasts, ensuring a solid financial future.
+
+_**Role of Reports**_
+   **1.**Align Financial Planning with Strategic Goals:** Our visual reports provide a clear roadmap for aligning your financial planning with your organization's strategic objectives.
+   **2.**Instill Confidence in the Organization's Financial Outlook:** Communicate your financial health and growth prospects with confidence, enhancing trust among stakeholders.
   
   
 
